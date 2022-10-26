@@ -23,7 +23,12 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+div.ex1{
+  padding-top: 25px;
+}
+.ag-header-cell-label {
+  justify-content: center;
+}
 .App-link {
   color: #61dafb;
 }
